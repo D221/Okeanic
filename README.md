@@ -18,7 +18,7 @@ Okeanic - A clean minimal foobar theme
 Fresh foobar2000 profile highly recommended\
 Theme tested on v1.6.10
 
-1. [Download this repo](https://github.com/D221/Okeanic/main)
+1. [Download this repo](https://github.com/D221/Okeanic/zipball/main)
 2. From zip file copy user-components, theme and configuration to your profile location:
 
 - Standard installation: %appdata%/foobar2000
