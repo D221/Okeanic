@@ -2,7 +2,7 @@
 
 Okeanic - A clean minimal foobar theme
 
-![Screenshot](screenshots\okeanic.png)
+![Screenshot](screenshots/okeanic.png)
 
 ## Features
 
