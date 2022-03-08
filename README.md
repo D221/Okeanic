@@ -43,5 +43,5 @@ Theme tested on v1.6.10
 [OpenLyrics by jacquesh](https://github.com/jacquesh/foo_openlyrics)\
 [Playback Statistics by Peter Pawlowski](https://www.foobar2000.org/components/view/foo_playcount)\
 [Srobble by gix](https://github.com/gix/foo_scrobble)\
-[Waveform Minibar (mod) by Janne Hyvärinen](https://foobar.hyv.fi/?view=foo_wave_minibar_mod)
+[Waveform Minibar (mod) by Janne Hyvärinen](https://foobar.hyv.fi/?view=foo_wave_minibar_mod)\
 [Library Tree by WilB](https://hydrogenaud.io/index.php?topic=110938.msg1001096#msg1001096)
