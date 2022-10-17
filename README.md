@@ -16,8 +16,8 @@ Okeanic - A clean minimal foobar theme
 ## Installation
 
 Fresh foobar2000 profile highly recommended\
-Theme tested on v1.6.13\
-**DOESN'T (YET) WORK ON v2.0 x64**
+Theme tested on v1.6.13 & v2.0 beta 12 32bit\
+**DOESN'T (YET) WORK ON v2.0 64bit**
 
 1. [Download this repo](https://github.com/D221/Okeanic/zipball/main)
 2. Install included font
@@ -26,6 +26,7 @@ Theme tested on v1.6.13\
 - Standard installation: %appdata%/foobar2000
 - Portable installation: \<your foobar2000 folder>/profile
 
+4. If you are using foobar2000 v2.0 or newer, playback statistics components is obsolete and should be removed
 ## Default Shortcuts
 
 |Key|Description|
